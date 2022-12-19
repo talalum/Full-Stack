@@ -1,0 +1,37 @@
+{
+    "persons" : [
+        {
+            "Name": "Yossi",
+            "Adress":
+            {
+                "City": "TLV" ,
+                "Street": {
+                    "Name": "Alenbi",
+                    "Number": "122"
+                }
+            }                      
+        },
+        {
+            "Name": "Moshe",
+            "Adress":
+            {
+                "City": "TLV" ,
+                "Street": {
+                    "Name": "Alenbi",
+                    "Number": "33"
+                }
+            }                      
+        },
+        {
+            "Name": "Noa",
+            "Adress":
+            {
+                "City": "Ramla" ,
+                "Street": {
+                    "Name": "Hezel",
+                    "Number": "15"
+                }
+            }                      
+        }
+    ] 
+}
