@@ -1,5 +1,5 @@
 const utils = require('./utils');
 
-let obj = {id: 5, "name" : "Yoav"};
+let obj = {id: 4, "name" : "Tal"};
 
-utils.addUser(obj).then(data => console.log(data))
+utils.addUser(obj).then(data => console.log(data));
